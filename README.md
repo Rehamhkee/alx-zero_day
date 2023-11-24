@@ -1,2 +1,1 @@
-0x03. Git
-EDIT
+My first readme
